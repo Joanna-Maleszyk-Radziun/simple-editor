@@ -9,3 +9,5 @@ saveButton.addEventListener('click', () => {
 loadButton.addEventListener('click', () => {
     textarea.value = localStorage.getItem('content');
 })
+
+
