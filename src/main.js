@@ -26,3 +26,4 @@ checkButton.addEventListener('click', ()=>{
    }
    textarea.classList.add(`text-${color}-500`)
 })
+
